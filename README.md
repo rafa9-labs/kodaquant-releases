@@ -369,7 +369,11 @@ For architecture decisions, technical trade-offs, implementation challenges, and
 
 ## Source and License
 
-KodaQuant's application source code is private. This repository contains the public distribution artifacts and this documentation; it is not an open-source release. The application and its release binaries are provided for end use.
+KodaQuant is proprietary software. Copyright © 2026 rafa9-labs. All rights reserved.
+
+The application source code is private. This repository contains public distribution artifacts and documentation only, and no open-source license is granted. Release binaries are licensed, not sold, for end use and may not be redistributed, resold, or reverse-engineered except as permitted by applicable law or a separate written agreement.
+
+Third-party components bundled with the application remain under their own licenses; the corresponding notices ship with the application.
 
 ## Disclaimer
 
