@@ -1,0 +1,8 @@
+# Private application source — never part of the public distribution repository
+thesisproj/
+
+# Local scratch and tooling caches
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.pyc
